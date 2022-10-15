@@ -1,0 +1,43 @@
+html{
+    font-size: 10px;
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 3px black;
+}
+
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border: 5px solid red;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: yellowgreen;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+button{
+    display: block;
+    margin: 10px auto;
+    color: darkgreen;
+    width: 150px;
+    height: 50px;
+}
